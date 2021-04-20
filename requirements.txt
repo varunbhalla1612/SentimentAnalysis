@@ -1,0 +1,8 @@
+afinn==0.1
+imblearn==0.0
+matplotlib==3.4.1
+networkx==2.5.1
+nltk==3.6.1
+numpy==1.20.2
+pandas==1.2.4
+scikit_learn==0.24.1
